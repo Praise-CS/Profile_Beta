@@ -4,7 +4,7 @@
 * *Date Created*: 06 10 2025
 * *Last Modification Date*: 06 10 2025
 * *Lab URL Git*: <https://git.cs.dal.ca/pbabalola/csci-3172/-/tree/main/activities/lecture5>
-* *Lab URL Timberlea*: <http://example.com/>
+* *Lab URL Timberlea*: <https://git.cs.dal.ca/pbabalola/csci-3172/-/tree/main/activities/lecture5>
 
 
 
